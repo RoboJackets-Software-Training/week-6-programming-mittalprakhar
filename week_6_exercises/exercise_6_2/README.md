@@ -1,4 +1,4 @@
-# Exercise 6.2: Writing an action client
+ # Exercise 6.2: Writing an action client
 By now, you've seen a little bit about how ROS actions work. Let's put that theory into practice by writing a client for an action!
 
 We've written an 

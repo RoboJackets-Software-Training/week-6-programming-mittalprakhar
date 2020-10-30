@@ -25,3 +25,4 @@ catkin_package(
 include_directories(${catkin_INCLUDE_DIRS})
 add_subdirectory(exercise_6_1)
 add_subdirectory(exercise_6_2)
+add_subdirectory(project_6)
